@@ -123,3 +123,91 @@ checksum = "aabb5b41eaafbfed1ff9b4fd0ed4117e"
 [exercises.part01-30_quadratic_formula]
 id = 306475
 checksum = "abca3a4ed89f492cb262222d19b62432"
+
+[exercises.part02-01_fix_syntax]
+id = 306263
+checksum = "6073ff238738d7e263d31ca56df4fdb4"
+
+[exercises.part02-02_number_of_characters]
+id = 306256
+checksum = "29d9119f64b639cce8cb378464acf5b2"
+
+[exercises.part02-03_typecasting]
+id = 306268
+checksum = "6b7431ebcce2c8208383f2ee917f0b47"
+
+[exercises.part02-04_age_of_maturity]
+id = 306275
+checksum = "cbdca5044c9e10bac2b147f2cc3aef97"
+
+[exercises.part02-05_greater_or_equal]
+id = 306265
+checksum = "ed3d3cc4773dec86ee8fac1b6a60b67c"
+
+[exercises.part02-06_elder]
+id = 306262
+checksum = "100e19576db31cac756d044caafe69ea"
+
+[exercises.part02-07_alphabetically_last]
+id = 306269
+checksum = "a6b58e8a4d7503f28c0fa824f568d1d5"
+
+[exercises.part02-08_age_check]
+id = 306277
+checksum = "a7acbabb6afa06122140c7f92a55761d"
+
+[exercises.part02-09_nephews]
+id = 306273
+checksum = "822989a3707794de0c862e7ac0e6f0ae"
+
+[exercises.part02-10_grades_and_points]
+id = 306266
+checksum = "65c527efd24806c5b5145becb6167928"
+
+[exercises.part02-11_fizzbuzz]
+id = 306274
+checksum = "f9d2ad18aee6341f8825b9186b265b26"
+
+[exercises.part02-12_leap_year]
+id = 306276
+checksum = "471fd8be753339ac89535e2a7c5ba6bc"
+
+[exercises.part02-13_alphabetically_in_the_middle]
+id = 306261
+checksum = "e814189a5654d0470f34de2dafdc7fed"
+
+[exercises.part02-14_gift_tax_calculator]
+id = 306257
+checksum = "52201f5d48332e3bee48c6031f86f35a"
+
+[exercises.part02-15_shall_we_continue]
+id = 306264
+checksum = "89fc01708af2212d0584ee220f9c30ad"
+
+[exercises.part02-16_input_validation]
+id = 306270
+checksum = "82240ff63a70b9072f5ce587a5bfe105"
+
+[exercises.part02-17_countdown]
+id = 306260
+checksum = "38b6b59634bcb67009c33ba1bbb27b58"
+
+[exercises.part02-18_repeat_password]
+id = 306272
+checksum = "dde063c0cb7924b596a53b69d0d926ce"
+
+[exercises.part02-19_pin_and_number_of_attempts]
+id = 306259
+checksum = "26d921af1ca5f1fa649df1bb3182dc68"
+
+[exercises.part02-20_next_leap_year]
+id = 306258
+checksum = "d82871dd5c3955d8cfcfdf132cebd75b"
+
+[exercises.part02-21_story]
+id = 306271
+checksum = "10757957b9ad939cc589718677bb1005"
+
+[exercises.part02-22_working_with_numbers]
+id = 306267
+checksum = "c48ef551bc1b82ade8f07e63b2673e7f"
