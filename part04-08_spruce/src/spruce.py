@@ -7,7 +7,10 @@ def spruce(number):
     
     print('a spruce!')
     while row < number + 1:
-        print(space * (number - row) + char * (row) + char * (row - 1))
+        spaces = space * (number - row)
+        stars = char * (2 * row - 1)
+        
+        print(spaces + stars)
         row += 1
 
     print(space * (number - 2), char)
@@ -15,4 +18,4 @@ def spruce(number):
 
 # You can test your function by calling it within the following block
 if __name__ == "__main__":
-    spruce(10)
+    spruce(3)
