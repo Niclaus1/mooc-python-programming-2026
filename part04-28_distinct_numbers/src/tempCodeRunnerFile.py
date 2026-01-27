@@ -1,0 +1,1 @@
+    print(distinct_numbers(my_list)) # [1, 2, 3]
