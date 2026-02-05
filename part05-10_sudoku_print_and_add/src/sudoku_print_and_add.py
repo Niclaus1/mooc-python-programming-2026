@@ -9,6 +9,7 @@ def print_sudoku(sudoku : list):
         if row == 3 or row == 6:
             print('')
         for col in range(len(sudoku)):
+            
             if col == 3 or col == 6:
                 print(' ', end="")
                 
