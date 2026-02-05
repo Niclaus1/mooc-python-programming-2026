@@ -1,0 +1,6 @@
+    grid_copy = copy_and_add(sudoku, 0, 0, 2)
+    print("Original:")
+    print_sudoku(sudoku)
+    print()
+    print("Copy:")
+    print_sudoku(grid_copy)
