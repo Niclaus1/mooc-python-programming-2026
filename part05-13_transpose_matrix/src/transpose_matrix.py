@@ -15,3 +15,4 @@ if __name__ == "__main__":
     transpose(matrix)
     for row in matrix:
         print(row)
+
