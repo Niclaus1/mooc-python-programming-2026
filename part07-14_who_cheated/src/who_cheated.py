@@ -18,7 +18,7 @@ def cheaters():
                 print(line[0], endTime, students[line[0]])
                 if line[0] not in cheaterList:
                     cheaterList.append(line[0])
-
     return cheaterList
+
 if __name__ == "__main__":
     cheaters()
