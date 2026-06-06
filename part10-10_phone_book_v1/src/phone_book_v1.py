@@ -48,9 +48,7 @@ class FileHandler:
 class PhoneBookApplication:
     def __init__(self):
         self.__phonebook = PhoneBook()
-        self.__filehandler = FileHandler(
-            "/Users/niclausg.rendon/code-projects/moocfi-python/mooc-programming-26/part10-10_phone_book_v1/src/phonebook.txt"
-        )
+        self.__filehandler = FileHandler("phonebook.txt")
 
         # add the names and numbers from the file to the phone book
         for name, numbers in self.__filehandler.load_file().items():
