@@ -1,4 +1,3 @@
-# Write your solution here:
 def sort_by_remaining_stock(items: list):
     def order_by_stock(item: list):
         return item[2]
