@@ -47,7 +47,7 @@ while True:
     if to_left:
         x -= 2
     if to_down:
-        y += 2
+        y -= 2
     if to_up:
         y -= 2
 
